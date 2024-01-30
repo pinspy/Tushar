@@ -4,7 +4,7 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinspy&label=Profile%20views&color=0e75b6&style=flat" alt="pinspy" /> </p>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB0c3Z0MTNhZzZybDAxNTNoeTB0eDhiMGo5dWpiNTllYW5oM3hqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://image.pngaaa.com/101/720101-middle.png">
 
 
 <p align="left"> <a href="https://twitter.com/tushartirkey" target="blank"><img src="https://img.shields.io/twitter/follow/tushartirkey?logo=twitter&style=for-the-badge" alt="tushartirkey" /></a> </p>
