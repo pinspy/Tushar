@@ -4,7 +4,7 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pinspy&label=Profile%20views&color=0e75b6&style=flat" alt="pinspy" /> </p>
-<img align="right" alt="Coding" width="400" src="https://image.pngaaa.com/101/720101-middle.png">
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/ddm76zj-115c352d-c520-4e26-930a-8e2f95375ddb.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZGMxM2I3LWEyZTctNGI0NS04M2VjLTMxMWU3MmU4MjkwMFwvZGRtNzZ6ai0xMTVjMzUyZC1jNTIwLTRlMjYtOTMwYS04ZTJmOTUzNzVkZGIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.yNfW-1PJeNlKoycncNxNv5kvoxmw7rowjVn4fwL-sKI">
 
 
 <p align="left"> <a href="https://twitter.com/tushartirkey" target="blank"><img src="https://img.shields.io/twitter/follow/tushartirkey?logo=twitter&style=for-the-badge" alt="tushartirkey" /></a> </p>
